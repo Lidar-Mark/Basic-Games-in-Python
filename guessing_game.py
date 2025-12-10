@@ -71,6 +71,9 @@ if __name__ == '__main__':
     guessing_game_v1(1,10,5)
 
 
+
+
+
 # def better_guess_game():
 #     # Game Rules.
 #     min_number = 1
@@ -116,6 +119,9 @@ if __name__ == '__main__':
 #     # Message when out of guesses
 #     if not won:
 #         print(f"You're out of guesses. You lose! The correct answer was {answer}")
+
+
+
 # def guess_between_ten():
 #     answer = rnd.randint(1,10)
 #     guess_count = 1
